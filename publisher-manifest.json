@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "09378322d16985703ce81581",
+  "owner": "rtedbtqmng",
+  "repo": "page-817e74d346585b670a862565",
+  "title": "V2云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "817e74d346585b670a862565",
+      "a": "V2云",
+      "b": "机场官网线路发布页",
+      "entity": "V2云",
+      "brand": "V2云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1a2db0100865c8241ceab5810c1942bc41b55d7d991c4bd9d9fd24532d17cc73",
+      "content": {
+        "primary_entity": "V2云",
+        "keyword1": "V2云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月付 ¥15 起，按年付可享优惠价。流量从每月 100GB 到 1000GB 不等，支持 3 至 20 台设备同时在线，旗舰版配有 IPLC 专线游戏加速与全节点原生流媒体解锁。用户可根据设备数量与流量需求选择套餐，再依客户端文档完成订阅配置。",
+          "AI_HERO_SUBTITLE": "灵活套餐适配多设备",
+          "AI_HERO_INTRO": "V2云面向不同规模的设备需求提供三档订阅方案，从个人手机笔记本到团队多设备协作均有对应流量与并发上限，搭配流媒体解锁与专线加速线路，依照客户端文档完成导入即可使用。",
+          "AI_VISUAL_TITLE": "V2云订阅套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "年付更划算省两月",
+          "AI_HIGHLIGHT_3": "专线加速流媒体解锁",
+          "AI_FEATURES_TITLE": "套餐选择与设备适配",
+          "AI_FEATURES_INTRO": "结合设备数量与月流量需求挑选套餐，参考并发上限与线路特性。",
+          "AI_FEATURE_TITLE_1": "按设备数量选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，覆盖手机、平板与电脑组合。",
+          "AI_FEATURE_TITLE_2": "流量与线路匹配",
+          "AI_FEATURE_TEXT_2": "100GB 适合轻度使用，300GB 满足追剧游戏，1000GB 应对团队高带宽需求。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "月付 ¥15 起，按年付享 ¥150/年、¥350/年、¥850/年，长周期更省心。",
+          "AI_CLIENTS_TITLE": "客户端选择指南",
+          "AI_CLIENTS_INTRO": "按设备类型挑选对应客户端，导入订阅链接即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月含 100GB 流量与 3 台设备；旗舰版 ¥35/月含 300GB 流量、5 台设备及 IPLC 专线加速；团队版 ¥85/月含 1000GB 流量与 20 台设备。按年付分别 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "选定套餐后，依设备配置客户端订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本与并发上限，阅读客户端适配说明。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅链接，按客户端文档完成节点选择与连接。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "V2云套餐可以随时更换吗？",
+          "AI_FAQ_ANSWER_1": "可以，在同一账号内切换基础版、旗舰版或团队版，流量与设备数按新套餐生效。补差价或调整周期可联系客服确认。",
+          "AI_FAQ_QUESTION_2": "一台设备登录会影响其他设备吗？",
+          "AI_FAQ_ANSWER_2": "同时在线数受套餐限制。基础版 3 台、旗舰版 5 台、团队版 20 台，超出时最早连接的设备可能被挤下，建议按实际设备数选择。",
+          "AI_FAQ_QUESTION_3": "哪些客户端可以导入订阅？",
+          "AI_FAQ_ANSWER_3": "常用客户端支持订阅链接导入，如 Clash、Shadowrocket、v2rayN 等。具体版本与操作以客户端文档为准，不同平台兼容性略有差异。",
+          "AI_FAQ_QUESTION_4": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_4": "基础版年付 ¥150，相当于月付 ¥12.5；旗舰版年付 ¥350，约 ¥29.2/月；团队版年付 ¥850，约 ¥70.8/月。年付可省约两个月费用。",
+          "AI_FAQ_QUESTION_5": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_5": "可在下一计费周期恢复，或升级至更高流量套餐。团队版 1000GB 适合高用量场景，具体超额处理方式可咨询客服。",
+          "AI_CLOSING_TITLE": "选对套餐轻松连接",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定套餐，按客户端文档完成订阅配置即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "gprinlm.cn",
+    "host": "gprinlm.cn"
+  },
+  "file_hashes": {
+    "index.html": "3ec6ae9bdbfd214df6ba55e82e5239f3b804e0278cdb014b6fb5044394a3ebfb",
+    "sitemap.xml": "d653bed6af6d5ab9c66387907fbefc4fb81f15c8b08c3fc3f4bafa898d6a6127",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8e44a3c95d978113380faed91c1876f6584af314f53f0452d838f4508cd6e93d",
+    "robots.txt": "46af9787c70f6537b76be0180bca52223c687dcac7b5e6c8c275ae0dd470d034",
+    "6e4db387566526bc1fe80a4f8eeae48d.txt": "6b584beafec41d20a93854a13c5d48a732b914bd2636f11a082db94c29ee0008"
+  },
+  "revision": "3d38da2b7ae9a6a6052950fc3fa5eed09e56111e86ccdeadc4acb90536597970"
+}
